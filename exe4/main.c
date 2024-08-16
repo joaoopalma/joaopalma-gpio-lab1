@@ -44,6 +44,5 @@ int main() {
       while (!gpio_get(BTN_PIN_R)) {
       };
     };
-    // Use delay de 300 ms entre os estados!
   }
 }
